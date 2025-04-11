@@ -8,8 +8,8 @@
 #		SISTEMA DE CONTROLE PWM PARA ILUMINAÇÃO LED E CLIMATIZAÇÃO EM AGRICULTURA INDOOR
 #       
 #		Alunos (RA):
-#           Davi Alves Feitosa de Souza (256447)
-#           Gabriel Martins De Andrade (216337)
+#               Davi Alves Feitosa de Souza (256447)
+#               Gabriel Martins De Andrade (216337)
 #
 #		Docentes: Antônio Augusto Fasolo Quevedo
 #
