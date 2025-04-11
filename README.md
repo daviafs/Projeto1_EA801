@@ -32,8 +32,7 @@ O objetivo do projeto consistiu em desenvolver um software de controle via PWM p
 4. Apresentação dos valores das variáveis emuladas e status do sistema via display.
 
 ## Fluxograma
-![Projeto1 drawio](https://github.com/user-attachments/assets/f2d066cd-41b6-40d8-b31a-3d0792a9bffc)
-
+![Projeto1 drawio](https://github.com/user-attachments/assets/6de09160-3b30-433d-8074-248ff48ea927)
 
 ## Imagens de funcionamento
 ![Funcionamento1](https://github.com/user-attachments/assets/c61cb7af-63d3-4fbc-85e1-b9fc9b077951)
