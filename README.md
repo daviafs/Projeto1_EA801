@@ -2,7 +2,7 @@
 
 Projeto para a disciplina EA801- Laboratório Projetos Sistemas Embarcados (FEEC-UNICAMP)
 
-Alunos: Davi A. F. de Souza & Gabriel M. de Andrade
+Desenvolvido por: Davi A. F. de Souza & Gabriel M. de Andrade
 
 Docente responsável: Antônio A. F. Quevedo
 
@@ -32,8 +32,13 @@ O objetivo do projeto consistiu em desenvolver um software de controle via PWM p
 4. Apresentação dos valores das variáveis emuladas e status do sistema via display.
 
 ## Fluxograma
-
-
-
+![Projeto1 drawio](https://github.com/user-attachments/assets/283f8cdb-6b9f-4514-b7cc-095ce2cc8ea7)
 
 ## Imagens de funcionamento
+![Funcionamento1](https://github.com/user-attachments/assets/c61cb7af-63d3-4fbc-85e1-b9fc9b077951)
+Descrição da imagem: Modo de operação considerando a composição de cor ‘Pink’ e 50% de intensidade, e valores altos para temperatura (35°C) e umidade relativa (70%)
+
+![Funcionamento2](https://github.com/user-attachments/assets/3b9c7e94-c395-40a3-8a03-2aa8ddf89331)
+Descrição da imagem: Modo de operação considerando a composição de cor ‘White’ e 80% de intensidade, e valores baixos para temperatura (20°C) e umidade relativa (20%)
+
+
