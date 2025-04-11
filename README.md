@@ -12,9 +12,13 @@ Data: 10 de Junho, 2025
 
 ## Descrição:
 Título: SISTEMA DE CONTROLE PWM PARA ILUMINAÇÃO LED E CLIMATIZAÇÃO EM AGRICULTURA INDOOR
+
 Linguagem: MicroPython
+
 Plataforma: ThonnyIDE
-MCU: STM32F411 BlackPill
+
+MCU: STM32F411 BlackPill (Através da placa BitDogLab)
+
 Bibliotecas CircuitPhyton: Bundle for Version 9.x (https://circuitpython.org/libraries)
 	
 ## Objetivo do Projeto
