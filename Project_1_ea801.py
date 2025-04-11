@@ -5,9 +5,8 @@
 #		Disciplina: EA801- Laboratório Projetos Sistemas Embarcados
 #
 #		Título do projeto:
-#		SISTEMA DE CONTROLE PWM PARA ILUMINAÇÃO
-#       LED E CLIMATIZAÇÃO EM AGRICULTURA INDOOR
-#
+#		SISTEMA DE CONTROLE PWM PARA ILUMINAÇÃO LED E CLIMATIZAÇÃO EM AGRICULTURA INDOOR
+#       
 #		Alunos (RA):
 #       Davi Alves Feitosa de Souza (256447)
 #       Gabriel Martins De Andrade (216337)
