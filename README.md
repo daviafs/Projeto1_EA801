@@ -4,11 +4,10 @@ Projeto para a disciplina EA801- Laboratório Projetos Sistemas Embarcados
 
 Curso: Bacharelado em Engenharia Elétrica (FEEC-UNICAMP)
 
-Alunos (RA): 
-Davi Alves Feitosa de Souza (256447)
-Gabriel Martins De Andrade (216337)
+Alunos: Davi A. F. de Souza & Gabriel M. de Andrade
 
-Docente responsável: Antônio Augusto Fasolo Quevedo
+Docente responsável: Antônio A. F. Quevedo
+
 Data: 10 de Junho, 2025
 
 ## Descrição:
