@@ -6,7 +6,7 @@ Desenvolvido por: Davi A. F. de Souza & Gabriel M. de Andrade
 
 Docente responsável: Antônio A. F. Quevedo
 
-Data: 10 de Junho, 2025
+Data: 10 de Abril, 2025
 
 ## Descrição:
 Título: SISTEMA DE CONTROLE PWM PARA ILUMINAÇÃO LED E CLIMATIZAÇÃO EM AGRICULTURA INDOOR
